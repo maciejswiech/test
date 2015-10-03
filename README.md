@@ -1,7 +1,7 @@
 #Plik program.C
-``c
-#include <stdio.h>
-#include <conio.h>
+
+include <stdio.h>
+include <conio.h>
 char znak='a';
 void main()
 {
@@ -12,7 +12,7 @@ void main()
     printf("Znak %c to liczba %d\n",znak,znak);
   }
 }
-``
+
 # zd 1#
 ``sh
 head -n 2 program.c
