@@ -2,4 +2,4 @@
 jESZCZE JEDEN 
 ``sh
 cat plik.txt
-``sh
+``
